@@ -12,7 +12,7 @@
     "@types/passport-oauth2-client-password": "0.1.2",
     "@typescript-eslint/eslint-plugin": "4.22.1",
     "@typescript-eslint/parser": "4.22.1",
-    "eslint": "7.25.0",
+    "eslint": "7.30.0",
     "eslint-config-airbnb-base": "14.2.1",
     "eslint-plugin-import": "2.22.1",
     "ts-node": "9.1.1",
